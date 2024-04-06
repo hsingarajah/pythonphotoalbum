@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c52f320-acfb-443c-9ef3-d4af166ae165" name="Changes" comment="Initial Scipt">
-      <change afterPath="$PROJECT_DIR$/MyPhoto.py" afterDir="false" />
+    <list default="true" id="4c52f320-acfb-443c-9ef3-d4af166ae165" name="Changes" comment="Exracted layer 1 of exif data">
+      <change afterPath="$PROJECT_DIR$/my_photo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPhoto.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,11 +101,20 @@
       <option name="project" value="LOCAL" />
       <updated>1712359167814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exracted layer 1 of exif data">
+      <option name="closed" value="true" />
+      <created>1712363572008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712363572008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Scipt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Scipt" />
+    <MESSAGE value="Exracted layer 1 of exif data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exracted layer 1 of exif data" />
   </component>
 </project>
