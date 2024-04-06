@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c52f320-acfb-443c-9ef3-d4af166ae165" name="Changes" comment="Exracted layer 1 of exif data">
-      <change afterPath="$PROJECT_DIR$/my_photo.py" afterDir="false" />
+    <list default="true" id="4c52f320-acfb-443c-9ef3-d4af166ae165" name="Changes" comment="Created Class to store photo objects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPhoto.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_photo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,12 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712363572008</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created Class to store photo objects">
+      <option name="closed" value="true" />
+      <created>1712376661411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712376661411</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Scipt" />
     <MESSAGE value="Exracted layer 1 of exif data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exracted layer 1 of exif data" />
+    <MESSAGE value="Created Class to store photo objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Class to store photo objects" />
   </component>
 </project>

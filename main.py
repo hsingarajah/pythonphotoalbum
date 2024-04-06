@@ -21,10 +21,11 @@ if __name__ == '__main__':
             tempObject.initImage(Image.open(myDir + '/' + '/' + PhotoDir + '/' + file))
             PhotoArray.append( tempObject )
 
-    print (len(PhotoArray))
+    #print (len(PhotoArray))
 
 
     for p in PhotoArray:
-        print (p.getGPS())
+        print( p.getLatLong())
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
